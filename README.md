@@ -15,4 +15,4 @@ Here is my karabiner(https://karabiner-elements.pqrs.org) setup, I use on my mac
 * option + h ==> command + left_arrow
 * option + ; ==> command + right_arrow
 
-* all options above also work with any additional modifier key provided, such as shift
+``all options above also work with any additional modifier key provided, such as shift```
