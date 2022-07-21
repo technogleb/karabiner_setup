@@ -34,6 +34,9 @@ and
 
 
 ## VIM-like config
+### Mode switching
+* caps_lock ==> escape
+* long pressed caps_lock ==> regular caps_lock
 ### Cursor navigation
 * option + h ==> left_arrow
 * option + l ==> right_arrow
